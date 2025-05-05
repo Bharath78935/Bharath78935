@@ -71,6 +71,10 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="background-color: white; border-radius: 10px;"/>
     </a>
+     <a href="https://www.php.net/" target="_blank" rel="noreferrer" aria-label="PHP">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+      </a>&nbsp;&nbsp;
+
   </p>
 
   <!-- Databases -->
