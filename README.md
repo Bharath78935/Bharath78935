@@ -30,18 +30,17 @@
   
   <p>💬 <i>"The best way to predict the future is to create it."</i></p>
 </div>
-
-
+ <h2 style="color: #58A6FF;">🛠️ My Tech Stack 🛠️</h2>
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ddd; background-color: #0d1117; padding: 30px; border-radius: 15px;">
-  <h2 style="color: #58A6FF;">🛠️ My Tech Stack 🛠️</h2>
+ 
   <p><i>Technologies that power my development journey</i></p>
 
-  <!-- Programming Languages -->
-  <h3 style="color: #58A6FF;">💻 Programming Languages</h3>
+  <!-- Programming Languages 
+  <h3 style="color: #58A6FF;">💻 Programming Languages</h3>-->
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    </a>&nbsp;&nbsp;
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     </a>&nbsp;&nbsp;
@@ -53,8 +52,8 @@
     </a>
   </p>
 
-  <!-- Web Development -->
-  <h3 style="color: #58A6FF;">🌐 Web Development</h3>
+  <!-- Web Development 
+  <h3 style="color: #58A6FF;">🌐 Web Development</h3>-->
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -77,8 +76,8 @@
 
   </p>
 
-  <!-- Databases -->
-  <h3 style="color: #58A6FF;">🗄️ Databases</h3>
+  <!-- Databases 
+  <h3 style="color: #58A6FF;">🗄️ Databases</h3>-->
   <p>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
@@ -88,8 +87,8 @@
     </a>
   </p>
 
-  <!-- Tools & Frameworks -->
-  <h3 style="color: #58A6FF;">🔧 Tools & Frameworks</h3>
+  <!-- Tools & Frameworks 
+  <h3 style="color: #58A6FF;">🔧 Tools & Frameworks</h3>-->
   <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
