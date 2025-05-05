@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bharath
+- 👋 Hi, I’m  Bharath
 - 👀 I’m interested in building new innovative projects
 - 🌱 I’m currently learning Web Development || DSA
-- 📫 How to reach me mulagapakabharath2543@gmail.com
+- 📫 How to reach me `mulagapakabharath2543@gmail.com`
 
 <!---
 Bharath78935/Bharath78935 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
